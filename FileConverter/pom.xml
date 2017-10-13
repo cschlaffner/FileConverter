@@ -41,7 +41,7 @@
   		   		</descriptorRefs>
   		   		<archive>
   		   			<manifest>
-  		   				<mainClass>uk.ac.cam.FileConverter</mainClass>
+  		   				<mainClass>fileconverter.FileConverter</mainClass>
   		   			</manifest>
   		   		</archive>
   		   	</configuration>
